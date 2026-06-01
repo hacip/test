@@ -1,2 +1,2 @@
 Updated; new instructions are located here;
-https://raw.githubusercontent.com/hacip/test/refs/heads/main/2.md
+https://raw.githubusercontent.com/hacip/test/refs/heads/main/2.md.txt
